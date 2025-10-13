@@ -255,3 +255,5 @@ The hook automatically caches results using React Query. Multiple components req
 Each unique address will trigger a network call to resolve SuiNS names. Consider the performance implications when displaying many addresses simultaneously.
 
 :::
+
+<!-- Auto-update: 2025-10-14T07:11:15.552758 -->
