@@ -351,3 +351,5 @@ If you have any confusion while using Suiet wallet kit, please check out [the do
 
 If you find any issues or bugs, welcome to submit [issues](https://github.com/suiet/wallet-kit/issues) or [PRs](https://github.com/suiet/wallet-kit/pulls) to [the Github repo](https://github.com/suiet/wallet-kit). Let's make Sui and open-source community better together!
 
+
+<!-- Auto-update: 2025-10-14T01:06:34.683961 -->
