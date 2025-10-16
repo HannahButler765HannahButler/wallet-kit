@@ -81,3 +81,5 @@ And if you are using the `useAccountBalance` hook, you the balance you got will 
 ### deprecated `wallet-adapter` logic to connect wallets, use `wallet-standard` instead
 
 Now all major wallets in Sui ecosystem have adjusted the new [`wallet-standard`](https://github.com/wallet-standard/wallet-standard), so we removed the support for the old wallet-adapter logic.
+
+<!-- Auto-update: 2025-10-16T08:42:52.811723 -->
